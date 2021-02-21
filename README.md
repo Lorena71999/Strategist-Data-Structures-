@@ -1,10 +1,11 @@
 # Strategist
 
 
-    Pentru realizarea cerintelor mi-am creat structurile (graf_metrou, clineti, 
-strazi, statie_Metrou, graf_client, rute_metrou) necesare citirii datelor
+    Pentru realizarea cerintelor mi-am creat structurile: 
+    
+graf_metrou, clineti, strazi, statie_Metrou, graf_client, rute_metrou, necesare citirii datelor
 din fisierul de date in main. 
-	De asemenea, mi-am creat un vector de cerinte, pentru care am citit din
+  De asemenea, mi-am creat un vector de cerinte, pentru care am citit din
 fisierul de date dimensiunea lui, aceasta fiind numarul de strategii care trebuie
 implementate, verificand fiecare element al vectorului in parte pentru a apela
 functia corespunzatoare fiecarei strategii.
